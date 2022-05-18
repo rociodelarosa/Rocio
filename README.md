@@ -1,5 +1,4 @@
 # Rocio
-
 <a href="url">
    <img src="My personal route in the world of data.png" align="left" height="100%" width="100%" >
    </a>
