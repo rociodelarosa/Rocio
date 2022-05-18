@@ -1,6 +1,6 @@
 # Rocio
 <a href="url">
-   <img src="[http://url.to/image.png](https://www.canva.com/design/DAFBE9pm-Sw/view)" align="left" height="48" width="48" >
+   <img src="My personal route in the world of data.png" align="left" height="100%" width="100%" >
    </a>
 
 <h1 align="center">Hi 👋, I'm Rocío</h1>
