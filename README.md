@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Rocío</h1>
 <h3 align="center">A junior in the world of data from Chile</h3>
-<h2 align="center">This is my learning path, I save exercises from books that I am or have studied. From Python, Apache Spark, Data Science, Machine Learning, SQL, Pandas, Data pipelines, Statistics or Deep Learning. I'm just starting. // Esta es mi ruta de aprendizaje, guardo ejercicios de libros que estoy o he estudiado. Desde Python, Apache Spark, Data Science, Machine Learning, SQL, Pandas, Data pipelines, Estadísticas o Deep Learning. Estoy recién iniciando.</h2>
+<h3 align="center">This is my learning path, I save exercises from books that I am or have studied. From Python, Apache Spark, Data Science, Machine Learning, SQL, Pandas, Data pipelines, Statistics or Deep Learning. I'm just starting. // Esta es mi ruta de aprendizaje, guardo ejercicios de libros que estoy o he estudiado. Desde Python, Apache Spark, Data Science, Machine Learning, SQL, Pandas, Data pipelines, Estadísticas o Deep Learning. Estoy recién iniciando.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rociodelarosa&label=Profile%20views&color=0e75b6&style=flat" alt="rociodelarosa" /> </p>
 
