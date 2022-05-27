@@ -10,11 +10,43 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rociodelarosa&label=Profile%20views&color=0e75b6&style=flat" alt="rociodelarosa" /> </p>
 
-- 🌱 I’m currently learning **Data Science / Data Engineer**
+🌱 I’m currently learning **Data Science / Engineering**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rdelarosagonzalez/](https://www.linkedin.com/in/rdelarosagonzalez/)
+📄 Know about my experiences [https://www.linkedin.com/in/rdelarosagonzalez/](https://www.linkedin.com/in/rdelarosagonzalez/)
 
-- ⚡ Fun fact **I am a chemical engineer**
+⚡ Fun fact **I am a chemical engineer**
+
+📚 Here is the list of books I am studying or consulting:
+- 📖 Python Crash Course: A Hands-On, Project-Based Introduction to Programming. Eric Matthes. 1st Edition
+- 📖 Aprenda a Pensar Como un Programador con Python (Traducido). Allen Downey, Jeffrey Elkner, Chris Meyers
+- 📖 Python Data Science Handbook: Essential Tools for Working with Data. Jake VanderPlas. 1st Edition
+
+👀 I'm interested in the following books:
+
+   👩🏻‍💻 Data Science:
+   - 📕 Machine Learning Bookcamp: Build a portfolio of real-life projects. Alexey Grigorev. 1st Edition
+   - 📕 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems Aurélien Géron. 2nd Edition
+   - 📕 Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning. Valliappa Lakshmanan. 1st Edition
+   - 📕 Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines. Chris Fregly, Antje Barth. 1st Edition
+   - 📕 The Art of Data Science. Roger Peng. 1st Edition
+   - 📕 Probabilidad y estadística para ingeniería y ciencias. Ronald E. Walpole. 9th edition
+   - 📕 Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python. Peter Bruce. Andrew Bruce. Peter Gedeck. 2nd Edition
+   - 📕 Naked Statistics: Stripping the Dread from the Data. Charles Wheelan. 1st Edition
+   - 📕 Practical SQL: A Beginner's Guide to Storytelling with Data. Anthony DeBarros. 1st Edition
+
+   ⚙️ Data Engineering:
+   - 📕 Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS. Gareth Eagar. 1st Edition
+   - 📕 Data Pipelines with Apache Airflow. Bas P. Harenslak, Julian Rutger de Ruiter. 1st Edition
+   - 📕 Advanced Analytics with Spark: Patterns for Learning from Data at Scale. Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills. 1st Edition
+   - 📕 Learning Spark: Lightning-Fast Data Analytics. Jules Damji, Brooke Wenig, Tathagata Das, Denny Lee.  2nd Edition
+   - 📕 Docker in Action. Jeff Nickoloff, Stephen Kuenzli. 2nd Edition
+
+   🐍 Python:
+   - 📕 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer. 
+   - 📕 Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python. Paul Crickard III
+
+   🧰 Git:
+   - 📕 Git Pocket Guide: A Working Introduction. Richard Silverman. 1st Edition
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
