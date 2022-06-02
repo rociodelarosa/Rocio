@@ -35,6 +35,7 @@
    - 📕 Practical SQL: A Beginner's Guide to Storytelling with Data. Anthony DeBarros. 1st Edition
 
    ⚙️ Data Engineering:
+   - 📕 Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python. Paul Crickard III. 1st Edition
    - 📕 Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS. Gareth Eagar. 1st Edition
    - 📕 Data Pipelines with Apache Airflow. Bas P. Harenslak, Julian Rutger de Ruiter. 1st Edition
    - 📕 Advanced Analytics with Spark: Patterns for Learning from Data at Scale. Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills. 1st Edition
@@ -42,8 +43,7 @@
    - 📕 Docker in Action. Jeff Nickoloff, Stephen Kuenzli. 2nd Edition
 
    🐍 Python:
-   - 📕 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer. 
-   - 📕 Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python. Paul Crickard III
+   - 📕 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer.
 
    🧰 Git:
    - 📕 Git Pocket Guide: A Working Introduction. Richard Silverman. 1st Edition
