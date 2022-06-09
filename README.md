@@ -26,8 +26,9 @@
    👩🏻‍💻 Data Science:
    - 📕 Machine Learning Bookcamp: Build a portfolio of real-life projects. Alexey Grigorev. 1st Edition
    - 📕 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems Aurélien Géron. 2nd Edition
-   - 📕 Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning. Valliappa Lakshmanan. 1st Edition
+   - 📕 Data Science on the Google Cloud Platform: Implementing End-to-End Real-Time Data Pipelines: From Ingest to Machine Learning. Valliappa Lakshmanan. 2nd Edition
    - 📕 Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines. Chris Fregly, Antje Barth. 1st Edition
+   - 📕 Data Science from Scratch: First principles with Python. Joel Grus. 1st Edition
    - 📕 The Art of Data Science. Roger Peng. 1st Edition
    - 📕 Probabilidad y estadística para ingeniería y ciencias. Ronald E. Walpole. 9th edition
    - 📕 Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python. Peter Bruce. Andrew Bruce. Peter Gedeck. 2nd Edition
