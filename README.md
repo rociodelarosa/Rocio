@@ -42,9 +42,18 @@
    - 📕 Advanced Analytics with Spark: Patterns for Learning from Data at Scale. Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills. 1st Edition
    - 📕 Learning Spark: Lightning-Fast Data Analytics. Jules Damji, Brooke Wenig, Tathagata Das, Denny Lee.  2nd Edition
    - 📕 Docker in Action. Jeff Nickoloff, Stephen Kuenzli. 2nd Edition
+   - 📕 Pipeline as code: Continous delivery with Jenkins, Kubernetes and Terraform. Mohamed Labouardy. 1st Edition
+   - 📕 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems. Martin Kleppmann. 1st Edition
+   - 📕 The Data Engineering Cookbook: Mastering The Plumbing Of Data Science. Andreas Kretz. 1st Edition
+   - 📕 Foundations for Architecting Data Solutions. Ted Malaska and Jonathan Seidman. 1st Edition
 
    🐍 Python:
    - 📕 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer.
+   - 📕 Fluent Python: Clear, concise and effective programming. Luciano Ramalho. 1st Edition
+   - 📕 Introducing Python: Modern computing in simple packages. Bill Lubanovic. 2nd Edition
+   - 📕 Tiny Python projects: Learn coding and testing with puzzles and games. Ken Youens-Clark. 1st Edition
+   - 📕 Python Cookbook: Recipes for mastering Python 3. David Beazley and Brian K. Jones. 3rd Edition
+   - 📕 Big book of small Python projects: 81 easy practice programs. Al Sweigart
 
    🧰 Git:
    - 📕 Git Pocket Guide: A Working Introduction. Richard Silverman. 1st Edition
