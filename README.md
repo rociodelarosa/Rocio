@@ -18,8 +18,9 @@
 
 📚 Here is the list of books I am studying or consulting:
 - 📖 Python Crash Course: A Hands-On, Project-Based Introduction to Programming. Eric Matthes. 1st Edition
-- 📖 Aprenda a Pensar Como un Programador con Python (Traducido). Allen Downey, Jeffrey Elkner, Chris Meyers
+- 📖 Aprenda a Pensar Como un Programador con Python. Allen Downey, Jeffrey Elkner, Chris Meyers
 - 📖 Python Data Science Handbook: Essential Tools for Working with Data. Jake VanderPlas. 1st Edition
+- 📖 Flask Web Development: Developing Web Applications with Python. Miguel Grinberg. 1st Edition
 
 👀 I'm interested in the following books:
 
