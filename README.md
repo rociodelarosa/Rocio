@@ -21,6 +21,7 @@
 - 📖 Aprenda a Pensar Como un Programador con Python. Allen Downey, Jeffrey Elkner, Chris Meyers
 - 📖 Python Data Science Handbook: Essential Tools for Working with Data. Jake VanderPlas. 1st Edition
 - 📖 Flask Web Development: Developing Web Applications with Python. Miguel Grinberg. 1st Edition
+- 📖 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer.
 
 👀 I'm interested in the following books:
 
@@ -50,7 +51,6 @@
    - 📕 Foundations for Architecting Data Solutions. Ted Malaska and Jonathan Seidman. 1st Edition
 
    🐍 Python:
-   - 📕 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer.
    - 📕 Fluent Python: Clear, concise and effective programming. Luciano Ramalho. 1st Edition
    - 📕 Introducing Python: Modern computing in simple packages. Bill Lubanovic. 2nd Edition
    - 📕 Tiny Python projects: Learn coding and testing with puzzles and games. Ken Youens-Clark. 1st Edition
