@@ -22,6 +22,7 @@
 - 📖 Python Data Science Handbook: Essential Tools for Working with Data. Jake VanderPlas. 1st Edition
 - 📖 Flask Web Development: Developing Web Applications with Python. Miguel Grinberg. 1st Edition
 - 📖 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer.
+- 📖 Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP. Adi Wijaya. 1st Edition
 
 👀 I'm interested in the following books:
 
