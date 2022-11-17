@@ -16,7 +16,7 @@
 
 ⚡ Fun fact **I am a chemical engineer**
 
-📚 Here is the list of books I am studying or consulting:
+📚 **Here is the list of books I am studying or consulting:**
 - 📖 Python Crash Course: A Hands-On, Project-Based Introduction to Programming. Eric Matthes. 1st Edition
 - 📖 Aprenda a Pensar Como un Programador con Python. Allen Downey, Jeffrey Elkner, Chris Meyers
 - 📖 Python Data Science Handbook: Essential Tools for Working with Data. Jake VanderPlas. 1st Edition
@@ -24,11 +24,11 @@
 - 📖 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer.
 - 📖 Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP. Adi Wijaya. 1st Edition
 
-💻 And here are the courses from which I learn or consult:
+💻 **And here are the courses from which I learn or consult:**
 - 🔗 https://developers.google.com/machine-learning/crash-course
 
 
-👀 I'm interested in the following books:
+👀 **I'm interested in the following books:**
 
    👩🏻‍💻 Data Science:
    - 📕 Machine Learning Bookcamp: Build a portfolio of real-life projects. Alexey Grigorev. 1st Edition
