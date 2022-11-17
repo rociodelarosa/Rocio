@@ -61,6 +61,9 @@
    - 📕 Tiny Python projects: Learn coding and testing with puzzles and games. Ken Youens-Clark. 1st Edition
    - 📕 Python Cookbook: Recipes for mastering Python 3. David Beazley and Brian K. Jones. 3rd Edition
    - 📕 Big book of small Python projects: 81 easy practice programs. Al Sweigart
+   - 📕 Python Automation Cookbook. Jaime Buelta. 2nd Edition.
+   - 📕 Automate the boring stuff with Python. Al Sweigart. 2nd Edition.
+   - 📕 Object-Oriented Python. Irv Kalb. 1st Edition.
 
    🧰 Git:
    - 📕 Git Pocket Guide: A Working Introduction. Richard Silverman. 1st Edition
