@@ -23,6 +23,7 @@
 - 📖 Flask Web Development: Developing Web Applications with Python. Miguel Grinberg. 1st Edition
 - 📖 Python One-Liners Write Concise, Eloquent Python Like a Professional. Christian Mayer.
 - 📖 Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP. Adi Wijaya. 1st Edition
+- 📖 Google Cloud Cookbook: Practical solutions for building and deploying Cloud Services. Rui Costa & Drew Hodun. 1st Edition
 
 💻 **And here are the courses from which I learn or consult:**
 - 🔗 https://developers.google.com/machine-learning/crash-course
